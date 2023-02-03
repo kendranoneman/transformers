@@ -1,3 +1,5 @@
+# testing testing testing
+
 .PHONY: deps_table_update modified_only_fixup extra_style_checks quality style fixup fix-copies test test-examples
 
 # make sure to test the local checkout in scripts and not the pre-installed one (don't use quotes!)
